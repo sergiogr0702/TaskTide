@@ -332,5 +332,5 @@ This project is protected under the [Apache License 2.0](https://choosealicense.
 [Create-board]: https://github.com/sergiogr0702/TaskTide/blob/main/demo-images/create_board.png
 [Board]: https://github.com/sergiogr0702/TaskTide/blob/main/demo-images/board.png
 [Upgrade]: https://github.com/sergiogr0702/TaskTide/blob/main/demo-images/upgrade.png
-[Subscribe]: https://github.com/sergiogr0702/TaskTide/blob/main/demo-images/subcribe2.png
-[Subscription-view]: https://github.com/sergiogr0702/TaskTide/blob/main/demo-images/subscription_view2.png
+[Subscribe]: https://github.com/sergiogr0702/TaskTide/blob/main/demo-images/subscribe2.png
+[Subscription-view]: https://github.com/sergiogr0702/TaskTide/blob/main/demo-images/subscription-view2.png
